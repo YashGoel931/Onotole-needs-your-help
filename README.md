@@ -1,1 +1,2 @@
 # Onotole-needs-your-help
+Onotole has a lot of pyani. Each pyani has a number, writing on it. Pyanis with equal numbers are indistinguishable. Onotole knows everything, so, he knows that each pyani appeared twice, and only one pyani is unique. He wants to get вздръжни эффект, and he needs the unique pyani. Given the list of pyanis denote which one of them appeared once (it is guaranteed that other pyanis appeared twice).
